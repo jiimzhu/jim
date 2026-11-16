@@ -1,0 +1,26 @@
+# 构建产物
+target/
+dist/
+node_modules/
+build/
+
+# 数据库文件
+data/
+*.mv.db
+*.trace.db
+
+# 日志
+logs/
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# 系统
+.DS_Store
+Thumbs.db
